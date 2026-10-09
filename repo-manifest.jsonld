@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/wterm/commit/615efcde2fb8e1415e7b8f0d8ddc107600c0f48b",
       "git:hexsha": "615efcde2fb8e1415e7b8f0d8ddc107600c0f48b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
